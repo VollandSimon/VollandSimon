@@ -1,0 +1,4 @@
+- 👋 Bonjour, je suis  @VollandSimon
+- 👀 je démarre sur GitHub, mais l'objectif est d'apprendre rapidement non ? 
+- <b>💞️ Les technos Front-End sont les technos qui m'intéresse le plus aujourd'hui. </b>
+- 📫 En parallèle, je recrute dans le domaine de l'IT, alors si vous cherchez un JoB  -> simon.volland@recruteo.fr
